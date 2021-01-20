@@ -1,8 +1,8 @@
 ### Heo Jeon Jin
-- Backend Developer
-- Undergraduate 3rd year at Dept Of Software / Dankook Univ, Korea
+> Backend Developer
+<br />Undergraduate 3rd year at Dept Of Software / Dankook Univ, Korea
 
-#### Skills
+### Skills
 - Backend
 <br />![](icons/nodejs.png) ![](icons/graphql.png) ![](icons/python.png)
 - Frontend
@@ -12,5 +12,5 @@
 - Infrastructure
 <br />![](icons/docker.png)
 
-#### Interested
+### Interested
 ![](icons/go.png) ![](icons/typescript.png)
