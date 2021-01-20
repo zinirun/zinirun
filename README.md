@@ -1,6 +1,7 @@
 ### Heo Jeon Jin
-> Backend Developer
-<br />Undergraduate 3rd year at Dept Of Software / Dankook Univ, Korea
+> Codes maketh man.
+- Backend Developer
+- Undergraduate 3rd year at Dept Of Software / Dankook Univ, Korea
 
 ### Skills
 - Backend
