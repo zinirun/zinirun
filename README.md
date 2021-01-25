@@ -1,7 +1,8 @@
 ## Heo Jeon Jin
 > Codes maketh man.
+
 - Backend Developer trying to get close to Fullstack
-- Undergraduate 3rd year at Dept Of Software / Dankook Univ, Korea
+- Undergraduate 3rd year at Department of Software / Dankook Univ, Korea
 
 ### Skills
 #### Backend
