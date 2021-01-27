@@ -5,13 +5,13 @@
 
 ### Skills
 #### Backend
-![](icons/nodejs.png) ![](icons/graphql.png) ![](icons/python.png)
+![](icons/typescript.png) ![](icons/nodejs.png) ![](icons/nestjs.png) ![](icons/graphql.png) ![](icons/sequelize.png) ![](icons/python.png)
 #### Frontend
- ![](icons/javascript.png) ![](icons/react.png) ![](icons/redux.png) ![](icons/jquery.png) ![](icons/html.png) ![](icons/css.png)
+![](icons/javascript.png) ![](icons/react.png) ![](icons/redux.png) ![](icons/jquery.png) ![](icons/html.png) ![](icons/css.png)
 #### Database
 ![](icons/mysql.png) ![](icons/redis.png)
 #### Infrastructure
 ![](icons/docker.png)![](icons/linux.png)
 
 ### Interested
-![](icons/go.png) ![](icons/typescript.png)
+![](icons/go.png) ![](icons/jest.png) ![](icons/jenkins.png) ![](icons/mongodb.png)
