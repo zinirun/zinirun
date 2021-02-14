@@ -1,6 +1,6 @@
 ## Heo Jeon Jin
 - Backend/Infra Developer
-- Love Typescript and pizza
+- Love Typescript and 🍕
 - Last year of the Department of Software / Dankook Univ, Korea
 
 ### Skills
