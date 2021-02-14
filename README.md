@@ -1,6 +1,6 @@
 ## Heo Jeon Jin
-> Codes maketh man.
 - Backend/Infra Developer
+- Love Typescript and pizza
 - Last year of the Department of Software / Dankook Univ, Korea
 
 ### Skills
