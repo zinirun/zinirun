@@ -10,7 +10,7 @@
 ![](icons/javascript.png) ![](icons/react.png) ![](icons/redux.png) ![](icons/jquery.png) ![](icons/html.png) ![](icons/css.png)
 #### Database
 ![](icons/mysql.png) ![](icons/redis.png)
-#### Infrastructure
+#### Infrastructure/DevOps
 ![](icons/docker.png)![](icons/linux.png)
 
 ### Interested
