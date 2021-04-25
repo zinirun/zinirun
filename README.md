@@ -1,17 +1,14 @@
 ## Heo Jeon Jin
 - Backend/Infra Developer
 - Love Typescript and 🍕
-- Last year of the Department of Software / Dankook Univ, Korea
 
-### Skills
-#### Backend
-![](icons/typescript.png) ![](icons/nodejs.png) ![](icons/nestjs.png) ![](icons/graphql.png) ![](icons/sequelize.png) ![](icons/python.png)
-#### Frontend
-![](icons/javascript.png) ![](icons/react.png) ![](icons/redux.png) ![](icons/jquery.png) ![](icons/html.png) ![](icons/css.png)
-#### Database
-![](icons/mysql.png) ![](icons/redis.png)
-#### Infrastructure/DevOps
-![](icons/docker.png)![](icons/linux.png)
-
-### Interested
-![](icons/go.png) ![](icons/jest.png) ![](icons/jenkins.png) ![](icons/mongodb.png)
+<img src="assets/paul.jpg" width="400" />
+<br /><br />
+<code><img src="icons/typescript.png" height="35"></code>
+<code><img src="icons/nestjs.png" height="35"></code>
+<code><img src="icons/graphql.png" height="35"></code>
+<code><img src="icons/react.png" height="35"></code>
+<code><img src="icons/mysql.png" height="35"></code>
+<code><img src="icons/redis.png" height="35"></code>
+<code><img src="icons/docker.png" height="35"></code>
+<code><img src="icons/linux.png" height="35"></code>
