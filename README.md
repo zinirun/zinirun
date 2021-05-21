@@ -1,4 +1,4 @@
-<h1 align="center">zini&nbsp;<img src="assets/kaikaikiki.png" height="21" /></h1>
+<h1 align="center">zini&nbsp;<img src="assets/kaikaikiki.png" height="22" /></h1>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=cOaohmG0sRo" target="_blank"><img align="center" src="assets/paul.jpg" width="400" /></a>
