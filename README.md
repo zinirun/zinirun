@@ -1,7 +1,7 @@
-<h1 align="center">zini&nbsp;<img src="assets/kaikaikiki.png" height="22" /></h1>
+<h1 align="center">zini&nbsp;<img src="assets/kaikaikiki.png" height="23px" /></h1>
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=cOaohmG0sRo" target="_blank"><img align="center" src="assets/paul.jpg" width="400" /></a>
+<a href="https://www.youtube.com/watch?v=cOaohmG0sRo" target="_blank"><img align="center" src="assets/paul.jpg" width="400px" alt="paul" /></a>
 <br /><br />
 <code><img src="icons/typescript.png" height="35"></code>
 <code><img src="icons/nestjs.png" height="35"></code>
