@@ -1,4 +1,4 @@
-<h1 align="center">zini&nbsp;<img src="assets/kaikaikiki.png" height="23px" /></h1>
+<h1 align="center">zini&nbsp;<img src="assets/kaikaikiki.png" width="24" /></h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/zinirun/" target="_blank">Linkedin</a>
